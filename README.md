@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Censer29
+- 👋 Hi, I’m @Censer29 (Alexander)
 - 👀 I’m interested in motorcycles
 - 🌱 I’m currently learning in Yandex practicum
 - 💞️ I’m looking to collaborate on java developer
